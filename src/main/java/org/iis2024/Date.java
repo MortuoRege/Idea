@@ -47,6 +47,11 @@ public class Date {
     return year;
   }
 
+  public void methodAddedByowner()
+  {
+    System.out.println("MethodAddedByowner");
+  }
+
   /**
    * Constructs a Date object representing a specific day, month, and year.
    *
